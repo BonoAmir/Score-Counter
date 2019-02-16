@@ -2,7 +2,9 @@ Android app to keep track of a basketball game score
 
 
 
-what did i learn :
+What I Learned : 
 
 
-using global variables to update app UI.
+-Using global variables to update app UI.
+-Exploring some XML options
+
